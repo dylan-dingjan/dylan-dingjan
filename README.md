@@ -66,11 +66,11 @@ I focus on **fast, user-focused, highly functional web experiences** — combini
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DylanDingjan&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dylan-Dingjan&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanDingjan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dylan-Dingjan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DylanDingjan&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dylan-Dingjan&theme=tokyonight&hide_border=true" alt="Streak" />
 </p>
 
 ---
