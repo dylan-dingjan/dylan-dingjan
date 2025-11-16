@@ -15,7 +15,7 @@
 I'm **Dylan Dingjan**, a **Computer Science student** from Rotterdam, currently working on my thesis.  
 I work as a **social media manager** and **freelance photographer**, while building digital products from concept to deployment.
 
-I focus on **fast, user-focused, highly functional web experiences** — combining **design clarity** with **performance & optimisation**.
+I focus on **fast, user-focused, highly functional web experiences**, combining **design clarity** with **performance & optimisation**.
 
 - 🛠 I handle **frontend, backend, and system logic**
 - ⚡ Known for working **fast & effectively**
@@ -80,10 +80,3 @@ I focus on **fast, user-focused, highly functional web experiences** — combini
 <p align="center">
 <a href="https://www.linkedin.com/in/dylan-dingjan/"><img src="https://img.shields.io/badge/LinkedIn-Dylan%20Dingjan-0077B5?logo=linkedin&logoColor=white" /></a>
 </p>
-
----
-
-## ⚡ Closing Note
-
-> **He does a lot and fast.**  
-> **Because the experience matters.**
