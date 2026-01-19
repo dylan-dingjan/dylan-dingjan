@@ -56,22 +56,10 @@ I focus on **fast, user-focused, highly functional web experiences**, combining 
 
 ---
 
-## 🎯 Goals for 2025
+## 🎯 Goals for 2026
 - Master advanced **web design & UX**
 - Build stronger, more powerful **user-driven digital experiences**
 - Push performance & optimisation techniques further
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dylan-Dingjan&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dylan-Dingjan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dylan-Dingjan&theme=tokyonight&hide_border=true" alt="Streak" />
-</p>
 
 ---
 
