@@ -52,7 +52,7 @@ I focus on **fast, user-focused, highly functional web experiences**, combining 
 | **Tennis Court Scheduler** | Bookings, payment processing & email confirmations | React, Firebase |
 | **Photography Portfolio** | Clean, aesthetic freelance website | HTML, CSS, JS, Vercel |
 
-🔗 Live project: **https://dylancreatives.com**
+🔗 Live projects: **https://dylancreatives.com** & **https://theshotlist.app**
 
 ---
 
