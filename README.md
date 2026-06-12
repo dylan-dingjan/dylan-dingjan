@@ -13,7 +13,6 @@
 ## 🧠 About Me
 
 I'm **Dylan Dingjan**, a **Computer Science student** from Rotterdam, currently working on my thesis.  
-I work as a **social media manager** and **freelance photographer**, while building digital products from concept to deployment.
 
 I focus on **fast, user-focused, highly functional web experiences**, combining **design clarity** with **performance & optimisation**.
 
